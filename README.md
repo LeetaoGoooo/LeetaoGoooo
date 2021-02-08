@@ -13,4 +13,4 @@
 - 😄 introducation: Talk is cheap,show me the code.
 - ⚡ Hobby: 🏊、🏃、📚
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lt94)](https://github.com/lt94/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeetaoGoooo)](https://github.com/LeetaoGoooo/github-readme-stats)
